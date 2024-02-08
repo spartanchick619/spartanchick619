@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spartanchick619
+- 👋 Hi, I’m Rosa!
 - 🌱 I’m a Full Stack Software Developer
 - 👀 I’m interested in learning and growing in coding
 - 💞️ I’m open to collaborate in projects
